@@ -3,3 +3,19 @@
   box-shadow: none;
   border: none;
 }
+
+.ui.borderless.mid.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.black-background {
+  padding: 20px 0px 20px 0px;
+  background-color: #292929;
+  color: whitesmoke;
+  height: 200px;
+}
+
+.white {
+  color: whitesmoke;
+}
